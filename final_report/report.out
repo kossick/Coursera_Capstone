@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Background}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Problem}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Interest}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{Data Acquisition}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{Data sources}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{Data cleaning}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Feature selection}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{Exploratory Data Analysis}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Geographical analysis of board game caf\351s}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Comparison of venues}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.3}{Clustering of caf\351s and cities}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{Modelling}{}% 13
+\BOOKMARK [1][-]{section.5}{Results}{}% 14
+\BOOKMARK [1][-]{section.6}{Conclusions}{}% 15
